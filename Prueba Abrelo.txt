@@ -3,3 +3,4 @@ Si puedes ver esto escribe tu nombre:
 -El servidor lo logro leer. (Escrito desde el servidor)
 -Esteban (Logre leer la actualizacion que realizo el servidor)
 -Jiuber Monfil Quijano (Actualizacion del repositorio desde mi computadora local) 
+-Se actualizo el servidor se logro leer la actualización de Jiuber (Escrito desde el servidor)
