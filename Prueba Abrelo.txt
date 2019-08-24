@@ -1,4 +1,5 @@
 Si puedes ver esto escribe tu nombre:
 
 -El servidor lo logro leer. (Escrito desde el servidor)
+-Esteban (Logre leer la actualizacion que realizo el servidor)
 
